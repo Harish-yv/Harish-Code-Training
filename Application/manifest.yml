@@ -1,0 +1,5 @@
+applications:
+- name: simple-cf-app 
+  memory: 128M 
+  buildpack: python_buildpack 
+  instances: 1
