@@ -1,0 +1,5 @@
+applications:
+ - name: nodejs-app
+   memory: 256M
+   buildpacks:
+      - https://github.com/Harish-yv/Harish-Code-Training.git
